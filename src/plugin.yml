@@ -1,0 +1,7 @@
+name: ProdigyForcefield
+version: 1.0.3
+author: cocoraid
+main: fr.cocoraid.prodigyforcefield.ProdigyForcefield
+commands:
+    prodigyforcefield:
+        aliases: [pf]
